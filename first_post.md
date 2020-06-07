@@ -11,7 +11,7 @@
 
 [Home Page](https://mindhula-desoysa.github.io/)
 
-![alt text](https://httpstatusdogs.com/203-non-authoritative-information)
+![HTTP 203](https://httpstatusdogs.com/img/203.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
